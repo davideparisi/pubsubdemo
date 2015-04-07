@@ -1,0 +1,14 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "Simple PubSub Demo Application",
+  "main": "node/publisher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davide Parisi",
+  "license": "MIT",
+  "devDependencies": {
+    "autobahn": "^0.9.6"
+  }
+}
